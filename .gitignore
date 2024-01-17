@@ -1,0 +1,6 @@
+a.log
+b.log
+
+*.log
+
+contain_one_file/
